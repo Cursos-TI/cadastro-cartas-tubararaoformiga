@@ -11,5 +11,10 @@ int main() {
 
   // Área para exibição dos dados da cidade
 
+  printf("desafio xadrez!\n");
+  
+
+
+
 return 0;
 } 
